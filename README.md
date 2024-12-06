@@ -1,7 +1,3 @@
-Berikut adalah materi perkuliahan untuk **Algoritma Pemrograman** dengan fokus pada **Pengenalan Teknik Percabangan** dan implementasinya menggunakan struktur **If**, **If-Else**, **Nested If**, dan **Switch**:
-
----
-
 ### **Materi Perkuliahan: Algoritma Pemrograman – Teknik Percabangan**
 
 #### **1. Pengenalan Teknik Percabangan**
